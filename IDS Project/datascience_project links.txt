@@ -1,0 +1,11 @@
+https://towardsdatascience.com/from-correlation-to-causation-49f566eea954
+
+https://www.omnisci.com/technical-glossary/feature-engineering
+
+https://www.javatpoint.com/linear-regression-in-machine-learning
+
+https://towardsdatascience.com/machine-learning-basics-decision-tree-regression-1d73ea003fda
+
+https://levelup.gitconnected.com/random-forest-regression-209c0f354c84
+
+https://towardsdatascience.com/understanding-random-forest
